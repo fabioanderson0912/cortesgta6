@@ -1,0 +1,5 @@
+workspace_cortes/
+cortes_prontos/
+__pycache__/
+*.pyc
+.venv/
